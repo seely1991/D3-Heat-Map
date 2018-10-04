@@ -1,0 +1,19 @@
+.cell:hover {
+	stroke: black;
+}
+
+#tooltip {
+	display: none;
+	background-color: rgba(250,250,250,.8);
+	position: absolute;
+	border-radius: 5px;
+	padding: 5px;
+		border: 1px solid black;
+
+}
+
+#legend {
+	position: absolute;
+	bottom: 0;
+}
+
