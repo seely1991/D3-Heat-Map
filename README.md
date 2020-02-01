@@ -2,4 +2,4 @@
 
 A Heat-Map of temperatures across the U.S. made using D3 as part of the FreeCodeCamp.org certification.
 
-[seely1991.github.io/D3-Heat-Map](seely1991.github.io/D3-Heat-Map)
+[seely1991.github.io/D3-Heat-Map](https://seely1991.github.io/D3-Heat-Map)
